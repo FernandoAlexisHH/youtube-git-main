@@ -1,0 +1,67 @@
+commit 32aae1d844cdb399ce6cbdb75df798ad0cf2aa9f
+Author: Fernando Hernandez <fer_guitarrista@hotmail.com>
+Date:   Fri Jun 9 01:51:03 2023 -0600
+
+    Agregando las estaciones del año
+
+commit 704c4fbba1e6d309bd25b16662802d6d5c192375
+Merge: 904a998 c2745f0
+Author: Fernando Hernandez <fer_guitarrista@hotmail.com>
+Date:   Fri Jun 9 01:42:05 2023 -0600
+
+    Resolviendo conflicto merge main/html
+
+commit c2745f09956fc33a0d44a13cdb9672fe429146ff
+Author: Fernando Hernandez <fer_guitarrista@hotmail.com>
+Date:   Fri Jun 9 01:34:06 2023 -0600
+
+    Agregando index.js al index.html
+
+commit 904a9988e2e7bed37c0b9e30711da66e76660d72
+Author: Fernando Hernandez <fer_guitarrista@hotmail.com>
+Date:   Fri Jun 9 01:31:20 2023 -0600
+
+    Agregando style.css al index.html
+
+commit c6773825de03593c565cd62d573195a441bf02b4
+Merge: e7618d0 5646a84
+Author: Fernando Hernandez <fer_guitarrista@hotmail.com>
+Date:   Fri Jun 9 01:19:11 2023 -0600
+
+    Merge branch 'js'
+
+commit 5646a84fd03dd9fa17cd98005aa81d49158e6a87
+Author: Fernando Hernandez <fer_guitarrista@hotmail.com>
+Date:   Fri Jun 9 01:13:48 2023 -0600
+
+    Creando index.js
+
+commit e7618d07aaa4704bc4f8435b5622bb1b4cda54c1
+Author: Fernando Hernandez <fer_guitarrista@hotmail.com>
+Date:   Fri Jun 9 01:08:47 2023 -0600
+
+    Creando style.css
+
+commit 7a72b01a206a45f7f0c623c9c59e035b4d875e53
+Author: Fernando Hernandez <fer_guitarrista@hotmail.com>
+Date:   Fri Jun 9 01:03:50 2023 -0600
+
+    Creando index.html
+
+commit 5a9149c9574c9a10767faebf8587e3ee04e943f3
+Author: Fernando Hernandez <fer_guitarrista@hotmail.com>
+Date:   Wed Jun 7 16:55:29 2023 -0600
+
+    Ignorando archivos .exe
+
+commit 3cce4199e469cbf5139dcd22187d49ff517a19be
+Author: Fernando Alexis Hernandez Hernandez <127174445+FernandoVamp@users.noreply.github.com>
+Date:   Wed Jun 7 16:34:20 2023 -0600
+
+    Creando Licencia del Repositorio
+
+commit dc817ed4d9bf3de1efdb3cd4aea51a733c56124f
+Author: Fernando Hernandez <fer_guitarrista@hotmail.com>
+Date:   Tue Jun 6 16:42:56 2023 -0600
+
+    Primer commit
